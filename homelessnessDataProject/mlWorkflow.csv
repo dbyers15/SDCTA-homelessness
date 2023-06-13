@@ -1,0 +1,246 @@
+Train/Test,Grantor,Grantee,Program,Date,EndDate,Amount,AmendmentNumber,PreviousAmendingDate,NewAmendDate,AmendAmount,Funding Agency,Funding Source,Link to OCR'ed Document,Link to Text Doc,Entered into Sublime,Link to Tagged Documents,,,,,text_id
+Train,City of Chula Vista,Alpha Project ,Take Back the Streets,06/01/21,06/30/22,45000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1jKxi-CepX6WSSRPgfqWN1lADPGwPxdyU/view?usp=sharing,https://drive.google.com/file/d/1YoXt2iXeFFmwZGOGlQs_ay3tICuWshSo/view?usp=sharing,,,,,,,Alpha Project _Take Back the Streets_text.txt
+Train,City of Chula Vista,Jacobs and Cushman San Diego Food Bank,CV - Food Services,11/16/21,11/16/22,100000,,,,,,ARPA,https://drive.google.com/file/d/1fZeWl3dwpPF7ojKaFBcwHJuNVf-2auoO/view?usp=sharing,https://drive.google.com/file/d/12BLfFptlzNGXqacX21aJil_aLkjwdqME/view?usp=sharing,,,,,,,Jacobs and Cushman San Diego Food Bank_CV - Food Services_text.txt
+Train,City of Chula Vista,Alpha Project ,CV - Transitional Employment Services,12/07/21,12/16/22,100000,,,,,,ARPA,https://drive.google.com/file/d/17FhvcMQiU9hHvshQvJU7UJBSCILWjjp7/view?usp=sharing,https://drive.google.com/file/d/1Quk8YwhcR-nt4Lnu0YPFPe2o2De0e-go/view?usp=sharing,,,,,,,Alpha Project _CV - Transitional Employment Services_text.txt
+Train,City of Chula Vista,SBCS,CV - Emergency Domestic Violence Services ,04/26/22,04/26/23,200000,,,,,,ARPA,https://drive.google.com/file/d/11AA7PRZjdLV-0xNHlg4BixQoqvwc2Dui/view?usp=sharing,https://drive.google.com/file/d/1cfPhTJdlQd85a9bt9jHTUQk4NIQrtOMS/view?usp=sharing,,,,,,,SBCS_CV - Emergency Domestic Violence Services_text.txt
+Train,City of Chula Vista,Family Health Centers of San Diego,2021-2022 Mobile Medical Unit,06/01/21,06/30/22,30000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/13yTmGhTWYso7hbJtcOLIWDMNdSklpZ1_/view?usp=sharing,https://drive.google.com/file/d/1mCfhUF3aPwXyfUsyQJaihFfxBw6yXoSo/view?usp=sharing,,,,,,Alpha Project ,Family Health Centers of San Diego_2021-2022 Mobile Medical Unit_text.txt
+Train,City of Chula Vista,McAlister Institute for Treatment and Education Inc.,Work For Hope,06/01/21,06/30/22,35000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/18fiM_ylbl0L_ynwWN2aFY5qpruXuT-ei/view?usp=sharing,https://drive.google.com/file/d/1qyLDhiTkDrN6q5ATVSL2BTdzxb4u5ihw/view?usp=sharing,,,,,,Jacobs and Cushman San Diego Food Bank,McAlister Institute for Treatment and Education Inc._Work For Hope_text.txt
+Train,City of Chula Vista,Jacobs & Cushman San Diego Food Bank,Food 4 Kids Backpack Program,06/01/21,06/30/22,15000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/19uR9YH4eRP_hz6EdSA5cCAV1LH_iH30U/view?usp=share_link,https://drive.google.com/file/d/1AV6WrcrDBEIdt20iH9pu0UydUG-kbPZa/view?usp=share_link,,,,,,SBCS,Jacobs & Cushman San Diego Food Bank 2021-2022 Food 4 Kids Backpack Program.txt
+Train,City of Chula Vista,SBCS,Family Violence Treatment Program,06/01/21,06/30/22,39000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1Dp3lq_L2OIK93ipLjFwkPtqXA2LVTn1H/view?usp=share_link,https://drive.google.com/file/d/1jSED0joBLiDelnvz5W0U_jJYb3hV7wPN/view?usp=share_link,,,,,,Family Health Centers of San Diego,SBCS 2021-2022 Family Violence Treatment Program.txt
+Train,City of Chula Vista,SBCS,South Bay Food Program,06/01/21,06/30/22,20000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1QmKXTJoCdZJHl6kFJ2_liIjbyLUrGdV6/view?usp=sharing,https://drive.google.com/file/d/1L_w1crznUCId3ovTCEkn7HQVlJnEinkk/view?usp=share_link,,,,,,McAlister Institute for Treatment and Education Inc.,SBCS 2021-2022 South Bay Food Program.txt
+Train,City of Chula Vista,SBCS,Homeless Services,06/01/21,06/30/22,50000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1J69F3NHURE_iLwjfgVhqLK3Luhl9kfFN/view?usp=share_link,https://drive.google.com/file/d/1jNaFevDlZYaj5GBFsuE1RBy1uSyBJxuP/view?usp=share_link,,,,,,Jacobs & Cushman San Diego Food Bank,SBCS 2021-2022 Homeless Services.txt
+Train,City of Coronado,St. Vincent de Paul Village,Temporary Housing and Services,05/01/21,05/01/24,287041,,,,,,Affordable Housing Fund account 266490-8030,https://drive.google.com/file/d/1g4bsfQupwwOCpeOFeRM1oNxzEASzCe65/view?usp=share_link,https://drive.google.com/file/d/1qF-FyenH3bDxQ2MRwwcqSisHqPUFLGdg/view?usp=share_link,,,,,,St. Vincent de Paul Village,St. Vincent de Paul Village Temporary Housing and Services.txt
+Train,City of Del Mar,San Diego Regional Task Force on the Homeless,Annual Point-in-Time Count Services,07/01/21,06/30/23,4000,,,,,City,Community Support Program,https://drive.google.com/file/d/1oWTUN8kEyjF7qeKGYtImBzVsrASnMM6O/view?usp=share_link,https://drive.google.com/file/d/1kD7dSdjN_y-aGg1cfonHE7jaAVbdDF97/view?usp=share_link,,,,,,San Diego Regional Task Force on the Homeless,San Diego Regional Task Force on the Homeless Annual Point-in-Time Count Services.txt
+Train,City of El Cajon,Home Start,Outreach Services,09/01/20,08/31/21,200000,,,,,City Council,LMIHAF,https://drive.google.com/file/d/1S1cr9FC_HnK4RzDIvVHXQEmu71x0n39i/view?usp=share_link,https://drive.google.com/file/d/1gIwuyPNHArGY2TnD8oGoA5Ho-xI6cO9T/view?usp=share_link,,,,,,Home Start,Home Start    Outreach Services.txt
+Train,City of El Cajon,The Salvation Army,Supportive Service,10/06/20,10/05/22,20000,1,,,,City Council,A WAY BACK HOME' REUNIFICATION PROJECT,https://drive.google.com/file/d/1YKdK11oxEatarRsF3us2nXAlU1gMNXlR/view?usp=share_link,https://drive.google.com/file/d/1Zf9aoC0cGb3TCMka8ZguQq3xdOgZTFdN/view?usp=share_link,,,,,,The Salvation Army,The Salvation Army     Supportive Service.txt
+Train,City of El Cajon,The Salvation Army,Supportive Service,05/16/19,05/15/20,10000,,,,,,,https://drive.google.com/file/d/1WHu9kxLAs4uu29NuLOcagUOcQkAltXtf/view?usp=sharing,https://drive.google.com/file/d/1E0rzx_0oPnI0QmQl8R-lAWU0bwyrREeI/view?usp=share_link,,,,,,East County Transitional Living Center,The Salvation Army     Supportive Service (2).txt
+Train,City of El Cajon,East County Transitional Living Center,Railing Replacement,07/01/20,06/30/21,25000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1QHRxONUdBTteWtdgLfVj4k6UbcpzpOfA/view?usp=share_link,https://drive.google.com/file/d/1vYI7mB1mugRtKebn-KNlVzm7B3cG7Rkd/view?usp=share_link,,,,,,Interfaith Community Services,East County Transitional Living Center     Railing Replacement.txt
+Train,City of El Cajon,East County Transitional Living Center,Security Fencing,07/01/19,06/30/20,25000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1fK6XD6ku7BlNjSanhh49jpKORVyCSGbt/view?usp=sharing,https://drive.google.com/file/d/1cq_SdvYG4VL9UMszY6i3CFKktvcZ91K-/view?usp=share_link,,,,,,Crisis House,East County Transitional Living Center     Security Fencing.txt
+Train,City of El Cajon,Interfaith Community Services,Rotational Shelter Program,07/01/18,06/30/19,10000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1trlRcs6Pg7YgbngKfqTaceRRvIHWF9FB/view?usp=share_link,https://drive.google.com/file/d/1SK1vn6oHDf7wGmSjZLYzjG-SnnD44xng/view?usp=share_link,,,,,,Interfaith Community Services ,Interfairth Community Services       Rotational Shelter Program.txt
+Train,City of El Cajon,Interfaith Community Services,Rotational Shelter Program,07/01/19,06/30/20,10000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1vhddXq8CoS4K60MgOBdWa2qIFSdhm41g/view?usp=share_link,https://drive.google.com/file/d/1JW-HWAMVtTTEPjSGRrJqzY0oLkNV6Ja3/view?usp=share_link,,,,,,People Assisting the Homeless ,Interfairth Community Services     Rotational Shelter Program.txt
+Train,City of El Cajon,Interfaith Community Services,Rotational Shelter Program,07/01/20,06/30/21,10000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1-cSwxXbgckVEaMjVJqT2U6TUfo0zyebK/view?usp=share_link,https://drive.google.com/file/d/1ofVnuGNFA9U7U-_xiJNk_eR7hr6DfiRC/view?usp=share_link,,,,,,Department of Housing and Community Development,Interfaith Community Services     Rotational Shelter Program.txt
+Train,City of El Cajon,East County Transitional Living Center,Emergency Shelter Program for Homeless,07/01/20,06/30/21,100000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/14jfqnCnq-nZRfhEEO7ppEpjSE3t7tILS/view?usp=share_link,https://drive.google.com/file/d/1EOrrh4BwKi4rHHH-jneqacVi3Ms1rc2_/view?usp=share_link,,,,,,McAlister Institute for Treatment & Education ,East County Transitional Living Center     Emergency Shelter Program for Homeless.txt
+Train,City of El Cajon,East County Transitional Living Center,Emergency Shelter Program for Homeless,07/01/19,06/30/20,100000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1q1CdemUuMMyVKqV98jbZKyuxvc981GKR/view?usp=share_link,https://drive.google.com/file/d/1svoE8FI2QCjH6pWRoZ0ENTlZvhkNOut-/view?usp=share_link,,,,,,South Bay Community Services,East County Transitional Living Center     Emergency Shelter Program for Homeless (1).txt
+Train,City of El Cajon,Crisis House,Improve Fencing,07/01/18,06/30/19,19725,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1_T-vms7sehlY3hEY1s8vHhNJwSDXtrdC/view?usp=share_link,https://drive.google.com/file/d/1_T-vms7sehlY3hEY1s8vHhNJwSDXtrdC/view?usp=share_link,,,,,,Alliance for Regional Solutions ,
+Train,City of El Cajon,Crisis House,HVAC Replacements,07/01/19,06/30/20,485000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1Da0j0n8DowNBVqm5Y5bRbk2ickqllmSz/view?usp=share_link,https://drive.google.com/file/d/1Xs9iBrDU2KPgZ1b7s0fvvCe7hk4IqkFH/view?usp=share_link,,,,,,"Home Start, Inc",Crisis House     HVAC Replacements.txt
+Train,City of El Cajon,East County Transitional Living Center,Emergency Shelter ,05/13/20,06/30/21,185294,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1I_5CkhbMdIf28m9Cm8ityErIQUfxKS_i/view?usp=share_link,https://drive.google.com/file/d/1h9TLp6NUtahy0zcDwvsN8t7MqibkveiE/view?usp=share_link,,,,,,Interfaith Shelter Network of San Diego,East County Transitional Living Center     Emergency Shelter.txt
+Train,City of El Cajon,Home Start,CV - Outreach Support Services Program,06/01/22,03/31/23,155000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/18bNqbvDOyowEGCs80nixdWRwIOIcKIdr/view?usp=share_link,https://drive.google.com/file/d/1nPzy_1AereeZR3ehFN633WyWbdPQ8JoV/view?usp=share_link,,,,,,East County Chamber of Commerce,Home Start     CV - Outreach Support Services Program.txt
+Train,City of El Cajon,Home Start,Motel Voucher Program ,05/13/20,6/30/21,145000,1,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1jvdPBJ71A8PzbhO9ByfTCycUPypn8tLY/view?usp=share_link,https://drive.google.com/file/d/1JuEkEvjzkwehXRvCIdXRDDnPyfbxkiT4/view?usp=share_link,,,,,,Santee Food Bank,Home Start     Motel Voucher Program.txt
+Train,City of Escondido ,Interfaith Community Services ,CV - Rental Assistance ,06/24/20,8/31/22,2500000,1,,,,U.S. Department of Housing and Urban Development,ESG-CV,Can't find file,,,,,,,North County Lifeline,
+Train,City of Escondido ,Interfaith Community Services ,CV - Quarantined Entry into Emergency Shelter,12/06/20,12/30/21,552803,,,,,U.S. Department of Housing and Urban Development,ESG-CV,https://drive.google.com/file/d/10kK3pI9AncKzzyIVCGCJ_VrzYbyuAQnR/view?usp=share_link,https://drive.google.com/file/d/1KiBQlxvLwGLXqyX5javR6YF8C_WUbrXV/view?usp=share_link,,,,,,Operation Hope,Interfaith Community Services     CV - Quarantined Entry into Emergency Shelter.txt
+Train,City of Escondido ,Interfaith Community Services ,Rapid Rehousing Services,06/24/20,12/30/21,785155,1,,,,U.S. Department of Housing and Urban Development,ESG-CV,https://drive.google.com/file/d/1lXqgWpNqcwhAijjsk6EDpsYy0fJkOB7u/view,,,,,,,Exodus Recovery,
+Train,City of Escondido ,Interfaith Community Services ,Outreach Services,06/01/21,08/31/22,249995,,,,,U.S. Department of Housing and Urban Development,ESG-CV,Can't find file,,,,,,,Elder Help,
+Train,City of Escondido ,Interfaith Community Services ,Outreach Services,07/01/21,06/30/22,78335,,,,,U.S. Department of Housing and Urban Development,ESG-CV,https://drive.google.com/file/d/17v1SZXItWTPbAXYldYc_G34Gh9oXfnCR/view?usp=share_link,https://drive.google.com/file/d/1tyEWN5B98T-Epqvy-LddDWdV6hCtqYeK/view?usp=share_link,,,,,,,Interfaith Community Services July Outreach Services.txt
+Train,City of Escondido ,Interfaith Community Services ,Case Management Services ,06/01/19,06/30/20,185328,,,,,RTFH,HEAPS,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services ,Case Management Services ,06/01/20,05/31/21,182340,1,,,,U.S. Department of Housing and Urban Development,ESG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services ,Prevention Programs,11/6/2017,8/31/2018,192324,1,,,,U.S. Department of Housing and Urban Development,ESG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services ,"Emergency Shelter, Prevention, Outreach",07/01/19,06/30/20,276432,2,,,,U.S. Department of Housing and Urban Development,ESG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services ,"Emergency Shelter, Prevention, Outreach",07/01/18,06/30/19,132289, ,,,,U.S. Department of Housing and Urban Development,ESG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services ,,07/01/17,06/30/18,96162,,,,,U.S. Department of Housing and Urban Development,ESG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services,"The Alliance for Regional Solutions, Emergency Shelter",07/01/17,6/30/18,43000,,,,,U.S. Department of Housing and Urban Development,CDBG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services,"The Alliance for Regional Solutions, Emergency Shelter",07/01/18,06/30/19,45000,,,,,U.S. Department of Housing and Urban Development,CDBG,Can't find file,,,,,,,,
+Train,City of Escondido ,Interfaith Community Services,"The Alliance for Regional Solutions, Emergency Shelter",07/01/19,06/30/20,45000,,,,,U.S. Department of Housing and Urban Development,CDBG,Can't find file,,,,,,,,
+Train,City of La Mesa,Home Start,Rental Assistance ,09/02/20,09/09/21,75000,,,,,,,https://drive.google.com/file/d/1krLwlT62pFYE1fs3_f7xpkMvOe7bzHdo/view?usp=share_link,https://drive.google.com/file/d/1xJ7jgNE7-2NDT8rOdz1VUu7r2TAibiqG/view?usp=share_link,,,,,,,Home Start     Rental Assistance.txt
+Train,City of La Mesa,People Assisting the Homeless ,CV - Outreach and General Homelessness Services ,11/19/20,10/31/21,262416,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1fBX3ZXRg47R48uuDJFmwZH80Ad9h7DyI/view?usp=share_link,https://drive.google.com/file/d/1iHaZxrgK_Q75t3iZ_93KZ_oNbTqmtPfJ/view?usp=share_link,,,,,,,People Assisting the Homeless      CV - Outreach and General Homelessness Services.txt
+Train,City of La Mesa,Department of Housing and Community Development,General Funding for Homelessness Services,09/03/21,06/30/30,188809,,,,,California Department of Housing and Community Development,Permanent Local Housing Allocation (PLHA) Program – Grant,https://drive.google.com/file/d/1whJ0pAWO-dOrAMtvQ7hTY6pp1hG7Eh54/view?usp=share_link,https://drive.google.com/file/d/1ltaCacfaf4vJAGFqUMbGZKrzSpj34FMm/view?usp=share_link,,,,,,,Department of Housing and Community Development       General Funding for Homelessness Services.txt
+Train,City of La Mesa,Home Start,CV - Housing Stability Services,09/23/21,09/30/22,338000,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1G1m_ejnwxP_gXQKj6egxmYyMuLVzyqvQ/view?usp=share_link,https://drive.google.com/file/d/1hwgRPMvbE3ABIgFPnB-fjEgZXLB0HjwJ/view?usp=share_link,,,,,,,Home Start     CV - Housing Stability Services.txt
+Train,City of Lemon Grove,Home Start,Outreach Services,07/13/20,01/20/22,30000,,,,,,,https://drive.google.com/file/d/1GVNLEvTwr-YY4jQxmqBo3SDiEyzCDE8U/view?usp=share_link,https://drive.google.com/file/d/1wRUS_gFMLn8sy51VMkE4T7JR2CaKyOwW/view?usp=share_link,,,,,,,City of Lemon Grove Home Start.txt
+Train,City of National City,McAlister Institute for Treatment & Education ,Case Management Services ,08/15/21,06/30/22,313532,,,,,,,https://drive.google.com/file/d/13P4cCiVSPPSE_Krv3dJe7xdrduQ3G0Vn/view?usp=share_link,https://drive.google.com/file/d/1vBqvu9NHQ_YfhQL-QVhLli2_KY2McHuC/view?usp=share_link,,,,,,,McAlister Institute for Treatment & Education Case Management Services.txt
+Train,City of National City,South Bay Community Services,Tenant Based Rental Assitance,1/7/20,01/07/22,364245.86,,,,,U.S. Department of Housing and Urban Development,HOME,https://drive.google.com/file/d/19tqa9i5-OXmZi1LAoQgIRTDzK8oYE5In/view?usp=share_link,https://drive.google.com/file/d/1Pjsqoa66F2Ps7Zrzu4dYupGKoWDRwqEE/view?usp=share_link,,,,,,,South Bay Community Services    Tenant Based Rental Assitance.txt
+Train,City of National City,South Bay Community Services,Tenant Based Rental Assitance,12/5/17,12/04/19,188147.42,,,,,U.S. Department of Housing and Urban Development,HOME,https://drive.google.com/file/d/1ALNUFDUD3WHQlMX5tj61aLNZMrcRONbX/view?usp=share_link,https://drive.google.com/file/d/1WWk5EDXEFu4ng4MJkJjlXuqoKLm5FQJf/view?usp=share_link,,,,,,,South Bay Community Services     Tenant Based Rental Assitance.txt
+Train,City of San Marcos,Alliance for Regional Solutions ,Shelter Services ,11/28/17,06/30/20,66300,,,,,U.S. Department of Housing and Urban Development,HOME,https://drive.google.com/file/d/1M49DsUjQAIthWiW5A2Lu3tbZ5r2zRQw8/view?usp=share_link,https://drive.google.com/file/d/1ATIesPjttME6tmxIoBS9Jdl65wUfRq6C/view?usp=share_link,,,,,,,17 Alliance for Regional Solutions  Shelter Services.txt
+Train,City of San Marcos,Alliance for Regional Solutions ,Shelter Services,06/30/20,06/30/23,125000,,,,,City,City Budget,https://drive.google.com/file/d/1io0tCljvm5aeuAoT_2_3lOwT1ByG65AN/view?usp=share_link,https://drive.google.com/file/d/1jjwldNK4KeCgwDw71JM97mInl6lCRh5Q/view?usp=share_link,,,,,,,20 Alliance for Regional Solutions Shelter Services.txt
+Train,City of Santee,Crisis House,Homelessness Prevention Case Management Services,09/04/20,06/30/21,6852,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1w0Qzr11xuiRsrXfizHesZyouNIDoHpNU/view?usp=share_link,https://drive.google.com/file/d/1GPh7LPx372HpRPwidtJRi1BQZ6wicheB/view?usp=share_link,,,,,,,Crisis House    Homelessness Prevention Case Management Services.txt
+Train,City of Santee,"Home Start, Inc",CV - Rental Assistance,12/31/20,07/30/21,168976,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/19ulbwsproVXod25oJWojbKixkiI3SFTA/view?usp=share_link,https://drive.google.com/file/d/1slw6O0bjKIonlgKty6Vfbd-L-NJtHP_i/view?usp=share_link,,,,,,,"Home Start, Inc  CV - Rental Assistance.txt"
+Train,City of Santee,Crisis House,CV - Rapid Rehousing Services,12/31/20,07/30/21,15000,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1NvRvukTRjPO77vYdN7yldslgh3tKYeiO/view?usp=share_link,https://drive.google.com/file/d/1tg8lnFrmfJM5m6zs0wzFyKb7m6Wcxmnc/view?usp=share_link,,,,,,,Crisis House  CV - Rapid Rehousing Services.txt
+Train,City of Santee,Interfaith Shelter Network of San Diego,CV - Rental Assistance ,12/31/20,07/30/21,168976,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1JbR1TKeQb20TUiEcuk2Ezz2k6wukrwVi/view?usp=share_link,https://drive.google.com/file/d/1pquentkE4cSDDj7peuHh7HFgBwshkq3W/view?usp=share_link,,,,,,,Interfaith Shelter Network of San Diego   CV - Rental Assistance.txt
+Train,City of Santee,East County Chamber of Commerce,Interprovider Networking and Program Facilitation ,03/22/21,07/30/21,5000,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,https://drive.google.com/file/d/1zDzSREJL9IxAc3k-gjeo3pfX_kdrRvI5/view?usp=share_link,https://drive.google.com/file/d/1ZDCKYAHxA-xbKbeEQHv0-pm97LbXW66d/view?usp=share_link,,,,,,,East County Chamber of Commerce Interprovider Networking and Program Facilitation.txt
+Train,City of Santee,Crisis House,Prevention Programs,7/1/19,06/30/20,5620,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1GvnxgutFjFHw86sPNp9RZASnfmumu13S/view?usp=share_link,https://drive.google.com/file/d/1zJnyn0Qv-zLfPSM58BhA5Kx_SXHWLqmE/view?usp=share_link,,,,,,,Crisis House Prevention Programs.txt
+Train,City of Santee,Crisis House,Prevention Programs,7/1/18,06/30/19,5490,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1iaCujib2yB0S-8FUGtIrr0Z2oe8gSpZ_/view?usp=share_link,https://drive.google.com/file/d/1ovfOxacy_FcC5OCGcfP8e_5pvH3OFeeo/view?usp=share_link,,,,,,,Crisis House Prevention Programs (1).txt
+Train,City of Santee,Crisis House,Prevention Programs,7/1/17,06/30/18,5000,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1IvuVqYiC89dCB354ffnq1aM6V8anBwFF/view?usp=share_link,https://drive.google.com/file/d/1mvVhlRmalCMWJOBwQMRcheTqtjuJZDow/view?usp=share_link,,,,,,,Crisis House Prevention Programs (2).txt
+Train,City of Santee,Crisis House,General Homelessness Services,11/19/21,06/30/22,6660,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1DhoZ_PDPSsUDpdCR8HwTrDmNb8DWN4QC/view?usp=share_link,https://drive.google.com/file/d/107-pKOCjfc3TIsmZeYmnFjDhnuQuWQLp/view?usp=share_link,,,,,,,Crisis House  General Homelessness Services.txt
+Train,City of Santee,Santee Food Bank,Emergency Food Supplies,07/01/19,06/30/20,14050,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/121TItbf3E-TY1Jeb8Xj8KWLCfgb9EnHJ/view?usp=share_link,https://drive.google.com/file/d/1IrEgyba-L2WyITAsVmCpr7OkPGjXFSjV/view?usp=share_link,,,,,,,Santee Food Bank Emergency Food Supplies.txt
+Train,City of Santee,Santee Food Bank,Emergency Food Supplies,07/01/18,06/30/19,14270,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1rC1W6fNB3gBs-8zxVeL5ifMIa_bHyOdC/view?usp=share_link,https://drive.google.com/file/d/1dPChTSSZ1S13B90CLgdC-hRwuV44NLYT/view?usp=share_link,,,,,,,Santee Food Bank Emergency Food Supplies (1).txt
+Train,City of Santee,Santee Food Bank,Emergency Food Supplies,07/01/17,06/30/18,14470,,,,,U.S. Department of Housing and Urban Development,CDBG,https://drive.google.com/file/d/1FbNyT20LLhvAzNyF9mjsB0WaAmpeb2YL/view?usp=share_link,https://drive.google.com/file/d/1GJwQ_6nu1pej3koMHIlLulT_FWiKY39K/view?usp=share_link,,,,,,,Santee Food Bank Emergency Food Supplies (2).txt
+Train,City of Vista,Interfaith Community Services ,Shelter and Homeless Strategic Plan Services,08/11/20,08/10/22,400000,1,,,,,Permanent Local Housing Allocation ,,,,,,,,,
+Train,City of Vista,North County Lifeline,Homless Prevention Plan ,08/11/20,08/31/21,500000,1,,,,U.S. Department of Housing and Urban Development,CDBG-CV,,,,,,,,,
+Train,City of Vista,Alpha Project ,Outreach Services,07/01/21,06/30/22,18334,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Alpha Project ,Outreach Services,07/01/20,06/30/21,17872,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Alpha Project ,Outreach Services,07/01/18,06/30/19,"13,607",,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,North County Lifeline,Emergency Stabalization and Supportive Services,07/01/21,06/30/22,18334,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Operation Hope,Temporary Shelter,07/01/18,06/30/19,24740,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Operation Hope,Temporary Shelter  ,07/01/19,06/30/20,26000,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Operation Hope,Temporary Shelter,7/1/20,06/30/20,32105,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Operation Hope,Temporary Shelter for Single Women,07/01/21,06/30/22,32933,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+Train,City of Vista,Exodus Recovery,Clinical Social Woerk,8/11/20,8/11/22,391400,3,,,,,Permanent Local Housing Allocation ,,,,,,,,,
+Train,City of Vista,North County Lifeline,Prevention Programs,8/11/20,8/11/21,250000,,,,,U.S. Department of Housing and Urban Development,State Budget Allocation ,,,,,,,,,
+Train,City of Vista,North County Lifeline,Rental Assitance,7/1/2020,6/30/21,255000,1,,,,U.S. Department of Housing and Urban Development,Housing Fund,,,,,,,,,
+Train,City of Vista ,Elder Help,HomeShare for Seniros,11/20/20,9/20/22,"70,000",,,,,,,,,,,,,,,
+Train,County of San Diego,Family Health Centers of San Diego Inc.,Substance Use Disorder Outpatient Treatment Adult LGBTQ,06/12/19,,,6,,,,,,,,,,,,,,
+Train,County of San Diego,"Arbor E&T, LLCdba Rescare Workforce Services",,11/21/19,,,1,,,"$4,750,000.00",,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Outreach,7/1/21,6/30/22,"$315,000.00",,,,,,Housing Trust Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Case Management,7/1/21,6/30/22,"$40,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Service Center,7/1/21,6/30/22,"$204,217.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Rental Assistance,7/1/21,6/30/22,"$41,211.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Community Resource Center,Rapid Re-Housing,7/1/21,6/30/22,"$350,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Alliance for Regional Solutions,Shelter,7/1/21,6/30/22,"$25,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,San Diego Urban Corps,Encampment/Trash Cleanup,7/1/21,6/30/22,"$82,010.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,San Diego Humane Society,Animal Care,7/1/21,6/30/22,"$29,825.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Rocket Johns,Restrooms,7/1/21,6/30/22,"$25,000.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Brother Benno's,Housing Assistance,7/1/21,6/30/22,"$10,287.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Catholic Charities,Shelter,7/1/21,6/30/22,"$17,287.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Legal Aid Society,Fair Housing Services,7/1/21,6/30/22,"$46,488.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Women's Resource Center,Shelter,7/1/21,6/30/22,"$10,287.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Outreach,7/1/22,6/30/23,"$315,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Case Management,7/1/22,6/30/23,"$40,000.00",,,,,,Housing Trust Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Service Center,7/1/22,6/30/23,"$204,217.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Interfaith Community Services,Rental Assistance,7/1/22,6/30/23,"$23,698.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Community Resource Center,Rapid Re-Housing,7/1/22,6/30/23,"$350,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Community Resource Center,Employment/Benefits,7/1/22,6/30/23,"$140,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Community Resource Center,Rental Assistance,7/1/22,6/30/23,"$18,698.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Catholic Charities,Shelter Staff,7/1/22,6/30/23,"$155,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Catholic Charities,Shelter,7/1/22,6/30/23,"$12,698.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Alliance for Regional Solutions,Shelter,7/1/22,6/30/23,"$25,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,OrgCode Consulting,Training/Technical Assistance,7/1/22,6/30/23,"$25,560.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,San Diego Urban Corps,Encampment/Trash Cleanup,7/1/22,6/30/23,"$90,623.50",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,San Diego Humane Society,Animal Care,7/1/22,6/30/23,"$29,825.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Rocket Johns,Restrooms,7/1/22,6/30/23,"$25,000.00",,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,Brother Benno's,Housing Assistance,7/1/22,6/30/23,"$10,073.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Casa De Amparo,Facility Improvements,7/1/22,6/30/23,"$40,000.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Legal Aid Society,Fair Housing Services,7/1/22,6/30/23,"$23,000.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,Women's Resource Center,Shelter,7/1/22,6/30/23,"$10,000.00",,,,,,CDBG,,,,,,,,,
+No contracts associated,City of Carlsbad,City of Carlsbad,Police Homeless Outreach Team,7/1/21,6/30/22,1674211.47,,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,City of Carlsbad,Homeless Services Division,7/1/21,6/30/22,389758.25,,,,,,General Fund,,,,,,,,,
+No contracts associated,City of Carlsbad,City of Carlsbad,Short Term Motel Vouchers,7/1/21,6/30/22,12781.16,,,,,,General Fund,,,,,,,,,
+Train,City of Carlsbad,Women's Resource Center,Domestic Violence Shelter,7/1/2017,6/30/2018,14896,,,,,,CDBG,,,,,,,,,
+Train,City of Carlsbad,Women's Resource Center,Meal Delivery for Seniors,7/1/2019,6/30/2020,10000,,,,,,CDBG,,,,,,,,,
+Train,City of Carlsbad,Urban Corps,Neighborhood Revitalization Services,6/12/2019,6/12/2021,35000,,,,,,,,,,,,,,,
+Test,City of Carlsbad,Urban Corps,Litter Removal,9/17/2018,9/15/2020,198000,2,,,,,General Fund,,,,,,,,,
+Test,City of Carlsbad,Rocket Johns,Restroom Rental,3/11/2020,3/11/2022,200000,,,,,,,,,,,,,,,
+Test,City of Carlsbad,Meals on Wheels,Meal Delivery for Seniors,7/1/2019,6/30/2020,10000,,,,,,CDBG,,,,,,,,,
+Test,City of Carlsbad,Legal Aid Society,Fair Housing and Tenant LandLord Services,7/1/2019,6/30/2020,22744,,,,,,CDBG,,,,,,,,,
+Test,City of Carlsbad,Legal Aid Society,Fair Housing and Tenant LandLord Services,07/01/18,6/2019,20550,,,,,,CDBG,,,,,,,,,
+Test,City of Carlsbad,Interfaith Community Services,Low-income Housing Services,05/23/20,6/2021,40000,1,,,,,,,,,,,,,,
+Test,City of Carlsbad,Interfaith Community Services,Case Management,06/01/18,6/2020,244944,1,,,,,,,,,,,,,,
+Test,City of Carlsbad,Interfaith Community Services,Outreach and Case Management,07/01/20,7/2021,312422,,,,,,,,,,,,,,,
+Test,City of Carlsbad,Interfaith Community Services,Rental Housing Assistance Program,07/01/19,6/2021,59872,1,,,,,CDBG,,,,,,,,,
+Test,City of Carlsbad,Interfaith Community Services,Rental Housing Assistance Program,07/01/18,6/2019,20061,,,,,,CDBG,,,,,,,,,
+Test,City of Lemon Grove,Home Start,Outreach,05/19/20,1/2022,8063.73,,,,,,,,,,,,,,,
+Test,City of Poway,Elderhelp of San Diego,Outreach and Case Management Services,07/01/18,06/30/21,48000,3,,,,,,,,,,,,,,
+Test,City of San Marcos,Interfaith Community Services,Regional Homless Shelter Program,7/1/20,6/30/21,125000,,,,,City,,,,,,,,,,
+Test,City of San Marcos,Interfaith Community Services,Rental Assistance,8/24/20,8/23/21,213243,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,,,,,,,,,
+Test,City of San Marcos,North County Lifeline,Rental Assistance,8/15/20,8/14/21,213243,,,,,U.S. Department of Housing and Urban Development,CDBG-CV,,,,,,,,,
+Test,City of San Marcos,211 San Diego,Call Center,8/17/16,6/30/19,17408,,,,,U.S. Department of Housing and Urban Development,CDBG,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,City of Encinitas ,CRC,Emergency Hotel/Motel Voucher Program,4/20/20,4/31/21,314250,,,,,,,Reaching out,CRC MOU Motel Voucher,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Opening Doors Program,7/1/18,6/30/19,107905,,,,,,General Fund,,,,,,,,,
+,City of Encinitas ,Interfaith Community Services,Alliance for Solutions Bridge to Housing Network,7/1/18,6/30/19,6707,,,,,,CDBG,,,Alliance for solution -> Homelessness Prevention and Intervention,,,,,,
+,City of Encinitas ,Community Resource Center,Homeless Prevention and Intervention,7/1/18,6/30/19,13407,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Catholic Charities,Las Posada de Guadalupe Homeless Shelter,7/1/18,6/30/19,6707,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Opening Doors Program,7/1/19,6/30/20,118700,,,,,,General Fund,,,,,,,,,
+,City of Encinitas ,Interfaith Community Services,Bridge to Housing Network,,,,1,7/1/20,6/30/21,25000,,CDBG,10/17/19,,add two amounts together,,,,,,
+,City of Encinitas ,Interfaith Community Services,Alliance for Solutions Bridge to Housing Network,7/1/19,6/30/20,20054,,,,,,CDBG ,"2019 ICS agreement, amendment above^",,,,,,,,
+,City of Encinitas ,Community Resource Center,Homeless Prevention and Intervention,7/1/19,6/30/20,13607,,,,,,CDBG,I believe the amendment below is for this one,,,,,,,,
+,City of Encinitas ,Community Resource Center,Facility Imporvement,7/1/19,6/30/20,58366,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Community Resource Center,,,,,1,7/1/20,6/30/21,25000,,CDBG,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Facility Imporvement,7/1/18,6/30/19,32000,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Interfaith Community Services,Alliance for Solutions Bridge to Housing Network,7/1/20,6/30/21,18824,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Motel Voucher,5/20/20,5/31/21,314250,6,,,,,,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Homlessness Prevention and Intervention,7/1/20,6/30/21,237500,1,,,,,HPIF,Use of district 76 homeless preveiont and intervention funds,,,,,,,,
+,City of Encinitas ,Community Resource Center,Homlessness Prevention and Intervention,7/1/20,6/30/21,14500,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Opening Doors Program,7/1/20,6/30/21,118700,,,,,,General Funds,However this is signed 28 june 2021,,,,,,,,
+,City of Encinitas ,Community Resource Center,Facility Imporvement,7/1/20,6/30/21,55280,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Community Resource Center,Opening Doors Program,7/1/21,6/30/22,118700,,,,,,General Funds,,,,,,,,,
+,City of Encinitas ,McAlister Institute,COVID-19 Homeless Response Full-Time Caseworker,10/22/21,10/22/23,325000,,,,,,CDBG,,,,,,,,,
+,City of Encinitas ,Interfaith Community Services,Bridge to Housing Network,,,,2,7/1/21,6/30/22,30000,,,I believe that this one goes to the one above,,,,,,,,
+,City of Encinitas ,Jewish Family Service of San Diego,Safe Parking,6/1/21,6/30/21,278458.5,,,,,,HHAP,,,,,,,,,
+,City of Encinitas ,Community Resource Center,,,,,1,6/24/20,6/30/22,,,,Use of district 76 homeless preveiont and intervention funds,June 28 2021,,,,,,,
+,City of Encinitas ,Community Resource Center,Homelessness Intervention and Prevnetion - Intefrated Services - Food and Nutrition Center,7/1/21,6/30/22,24512,,,,,,CGBD,,,,,,,,,
+,City of Encinitas ,Community Resource Center,,,,,2,7/1/21,6/30/22,58522,,,10/17/19,,,,,,,,
+,City of Encinitas ,Interfaith Community Services,Alliance for Solutions Bridge to Housing Network,7/1/21,6/30/22,20256,,,,,,,,,,,,,,,
+,City of San Diego ,Allstate Security Services,Security Guard Services,,,,,,,,,,,,,,,,,,
+,City of San Diego,Jewish Family Services,Expanded Safe Parking,7/1/18,6/30/19,488584,1,,,,,,,,,,,,,,
+,City of San Diego,Jewish Family Services,Expanded Safe Parking,7/1/19,6/30/20,956291,1,,,,,,,,,,,,,,
+,SDHC,Downtown San Diego Partnershup,Family Reunification Program,7/1/19,6/30/20,844000,3,,,,,,,,,,,,,,
+,SDHC,Alpha Project ,Temporary Bridge Shelter,12/1/17,6/30/18,2888176,,,,,,,,,,,,,,,
+,SDHC,Veterans Village of San Diego,Temporary Bridge Shelter,12/1/17,6/30/18,1893286,,,,,,,,,,,,,,,
+,SDHC,Father Joe's Village,Temporary Bridge Shelter,12/1/17,6/30/18,1335984,,,,,,,,,,,,,,,
+,SDHC,Mental Health Systems,Transitional Storage Center,5/10/18,6/30/19,1426729.26,2,,,,,,,,,,,,,,
+,SDHC,Mental Health Systems,Transitional Storage Center,7/1/20,6/30/21,1249942,3,,,,,,,,,,,,,,
+,SDHC,Think Dignity,Transitional Storage Center,7/1/19,6/30/20,163124,1,,,,,,,,,,,,,,
+,SDHC,Home Start,Rapid Re-Housing,7/1/19,6/30/20,454726,,,,,,,,,,,,,,,
+,SDHC,PATH,Rapid Re-Housing,7/1/19,6/30/20,454726,,,,,,,,,,,,,,,
+,SDHC,The Salvation Army,Rapid Re-Housing,5/1/19,4/30/20,454726,,,,,,,,,,,,,,,
+,SDHC,Alpha Project ,Temporary Bridge Shelter,7/1/19,6/30/20,5317209,,,,,,,,,,,,,,,
+,SDHC,Veterans Village of San Diego,Temporary Bridge Shelter,7/1/19,6/30/20,3408472,,,,,,,,,,,,,,,
+,SDHC,Father Joe's Village,Temporary Bridge Shelter,7/1/19,6/30/20,2472491,,,,,,,,,,,,,,,
+,SDHC,Alpha Project ,Bridge Shelter,10/16/19,6/30/20,2247713.38,,,,,,,,,,,,,,,
+,City of San Diego,Mental Health Systems,Transitional Storage Center,11/18/19,11/18/20,720664,,,,,,,,,,,,,,,
+,County of San Diego,Interfaith Community Services,Home Safe Program,7/1/19,7/31/22,1291236,4,,,,,,,,,,,,,,
+,County of San Diego,Serving Seniros,Case Managemnet For Senior Homeless Prevention,7/1/19,6/30/20,600000,,,,,,,,,,,,,,,
+,City of Poway,Interfaith Community Services ,Bridge Shelter,7/1/19,6/30/21,40000,2,,,,,,,,,,,,,,
+,City of Poway,Jewish Family Services,Food Drive Services,9/25/20,3/31/22,337645.09,1,,,,,,,,,,,,,,
+,County of San Diego,Casa De Amporo ,Transitional Youth Housing Program,7/1/17,9/30/22,1584000,3,,,,,,,,,,,,,,
+,County of San Diego,San Diego Youth Services,Transitional Youth Housing Program,7/1/17,9/30/22,4536000,2,,,,,,,,,,,,,,
+,County of San Diego,NEW ALTERNATIVES INC,Transitional Youth Housing Program,7/1/17,7/1/22,3168000,2,,,,,,,,,,,,,,
+,County of San Diego,PROSPERITY WAY INC,TRANSITIONAL HOUSING PROGRAM-PLUS AND FOSTER CARE,7/1/16,6/30/23,1441434,2,,,,,,,,,,,,,,
+,County of San Diego,WALDEN ENVIRONMENT-FFA,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANSITIONAL HOUSING PROGRAM PLUS FOSTER CAR,7/1/16,6/30/23,1256504,6,,,,,,,,,,,,,,
+,County of San Diego,NEW ALTERNATIVES INC,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANSITIONAL HOUSING PROGRAM PLUS FOSTER CARE,7/1/16,6/30/23,16935731,4,,,,,,,,,,,,,,
+,,HOME START INC,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANSITIONAL HOUSING PROGRAM-PLUS-FOSTER CARE,7/1/16,6/30/23,1918181,3,,,,,,,,,,,,,,
+,,NORTH COUNTY LIFELINE INC,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANISITIONAL HOUSING PROGRAM-PLUS-FOSTER CARE,7/1/16,6/30/23,1655619,2,,,,,,,,,,,,,,
+,,CASA DE AMPARO,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANSITIONAL HOUSING PROGRAM-PLUS-FOSTER CARE,7/1/16,6/30/23,5418377,5,,,,,,,,,,,,,,
+,,SOUTH BAY COMMUNITY SERVICES,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANSITIONAL HOUSING PROGRAM-PLUS-FOSTER CARE,7/1/16,6/30/23,3801165,1,,,,,,,,,,,,,,
+,,YMCA OF SAN DIEGO,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANISITIONAL HOUSING PROGRAM-PLUS-FOSTER CARE,7/1/16,6/30/23,4661866,2,,,,,,,,,,,,,,
+,,SAN DIEGO YOUTH SERVICES,TRANSITIONAL HOUSING PROGRAM-PLUS AND TRANISITONAL HOUSING PROGRAM-PLUS-FOSTER CARE,7/1/16,6/30/23,4845689,2,,,,,,,,,,,,,,
+,,NATIONAL CONFLICT RESOLUTION CENTER,LIVE WELL SAN DIEGO EXCHANGE PROGRAM AND THE WORK READINESS EXCHANGE PROGRAM,1/1/20,12/31/23,3243327,4,,,,,,,,,,,,,,
+,,PUBLIC CONSULTING GROUP INC,CALWORKS,1/1/19,6/30/26,274978843,5,,,,,,,,,,,,,,
+,,ARBOR E & T LLC,CALWORKS,1/1/19,6/30/26,9930558,4,,,,,,,,,,,,,,
+,,LEGAL AID SOCIETY OF SAN DIEGO INC,SOCIAL SECURITY INCOME (SSI) ADVOCACY SERVICES,7/1/17,6/30/22,7933137.36,5,,,,,,,,,,,,,,
+,,INTERFAITH SHELTER NETWORK SD COUNTY,TEMPORARY SHELTER NETWORK SERVICES,9/9/15,6/30/22,1385629,5,,,,,,,,,,,,,,
