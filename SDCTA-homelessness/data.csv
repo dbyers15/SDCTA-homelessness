@@ -1,40 +1,57 @@
 Grantor,Grantee,Program,Start,Stop,Amount,Funding Source
-City of San Marcos,Alliance for Regional Solutions,Winter Shelters,06/13/17,06/30/20,66300,City Budget
-City of San Marcos,Alliance for Regional Solutions ,Shelter Services,07/01/18,06/30/23,30000,City Budget
-City of Chula Vista,Alpha Project,CV - Transitional Employment Services,12/07/21,12/09/22,40000,ARPA
-City of Chula Vista,Alpha Project ,Take Back the Streets,06/01/21,06/30/22,30000,CDBG
-City of Vista,Alpha Project,Homelessness Outreach Services,07/01/20,06/30/21,400000,CDBG
-City of Vista,Alpha Project,Outreach Services,07/01/18,06/30/21,40000,CDBG
-City of Vista,Operation Hope,Operation HOPE,07/01/18,06/30/20,24000,CDBG
-City of Lemon Grove,Home Start,Outreach Services,7/13/20,01/20/22,30000,nan
-City of El Cajon,Crisis House ,Improved Fencing at 1034 N. Magnolia Facility,07/01/18,06/30/19,19275,CDBG
-City of El Cajon,Crisis House,HVAC Replacements,07/01/19,06/30/20,24500,CDBG
-City of Santee,Crisis House,HOPE Outreach Services ,09/04/20,06/30/21,68920,CDBG
+City of San Marcos,Alliance for Regional Solutions,Winter Services,11/14/18,06/30/23,125000,Fiscal Year 2020-21
+City of Chula Vista,Alpha Project,CV - Transitional Employment Services,12/07/21,12/07/23,100000,ARPA
+City of Chula Vista,Alpha Project,Take Back the Streets,06/01/21,06/30/22,30000,CDBG
+City of Vista,Alpha Project ,Homelessness Services,07/01/19,06/30/21,50000,CDBG
+City of Escondido,Interfaith Community Services,Alliance for Regional Solutions,07/01/18,06/30/20,15000,CDBG
+City of Lemon Grove,Home Start,Outreach Services,07/13/18,01/20/22,30000,nan
+City of El Cajon,Crisis House,Improved Fencing at 1034 N. Magnolia Facility,07/01/18,06/30/19,192525,CDBG
+City of El Cajon,Crisis House,HVAC Replacements,07/01/19,06/30/20,485000,CDBG
+City of Santee,Crisis House,Prevention Programs,09/04/20,06/30/21,6852,CDBG
 City of Santee,Crisis House,CV - Rapid Rehousing Services,12/31/20,07/30/21,15000,CDBG-CV
-City of Santee,Crisis House,Homelessness Prevention Services,07/01/18,06/30/19,5000,CDBG
-City of Santee,Crisis House,Prevention Programs,07/01/17,06/30/20,500000,CDBG
-City of El Cajon,East County Transitional Living Center,Emergency Shelter Program for Homeless,07/01/18,06/30/20,200000,CDBG
-City of El Cajon,East County Transitional Living Center ,Emergency Shelter ,05/13/20,06/30/21,185294,CDBG-CV
-City of El Cajon,East County Transitional Living Center,Railing Replacement ,07/01/20,06/30/21,25000,CDBG
-City of El Cajon,East County Transitional Living Center,Security Fencing,07/01/19,06/30/20,25000,CDBG
-City of Chula Vista,Family Health Centers of San Diego,Mobile Medical Unit,06/01/21,06/30/22,23000,CDBG
-City of El Cajon,Interfaith Shelter Network,Rotational Shelter Program,07/01/18,06/30/19,109600,CDBG
-City of Escondido ,Interfaith Community Services ,CV - Quarantined Entry into Emergency Shelter,12/16/20,12/30/21,552803,ESG-CV
-City of El Cajon,Interfaith Shelter Network of San Diego,Rotational Emergency Shelter Program,07/01/20,06/30/21,1000,CDBG
-City of Escondido ,Interfaith Community Services ,Outreach Services,07/01/21,06/30/22,4000,ESG-CV
-City of Santee,Interfaith Shelter Network of San Diego,CV - Rental Assistance ,12/31/20,07/30/21,168976,CDBG-CV
-City of Chula Vista,Jacobs and Cushman San Diego Food Bank,CV - Food Services,11/16/21,11/16/22,200000,ARPA
-City of Chula Vista,Jacobs & Cushman San Diego Food Bank,2019-2022 Food 4 Kids Backpack Programs,06/01/21,06/30/22,53000,CDBG
-City of Chula Vista,McAlister Institute for Treatment and Education Inc.,Work For Hope,06/01/21,06/30/22,375000,CDBG
-City of National City,McAlister Institute for Treatment & Education Inc.,Case Management Services,07/01/21,06/30/22,31352,nan
-City of Vista,North County Lifeline,Rental Assistance Services,7/1/19,6/30/20,255000,CDBG-CV
-City of Vista,Operation Hope,Operation HOPE,07/01/19,06/30/22,68950,CDBG
-City of La Mesa,People Assisting the Homeless,CV - Outreach Services ,11/1/20,10/31/21,262416,CDBG-CV
-City of Del Mar,San Diego Regional Task Force on the Homeless ,Services ,07/01/21,06/30/23,40000,Community Support Program
-City of Santee,Santee Food Bank,Emergency Food Supplies,07/01/17,06/30/20,46780,CDBG
-City of Chula Vista,SBCS,Family Violence Treatment Program,06/01/21,06/30/22,5000,CDBG
-City of Chula Vista,SBCS,Homeless Services,06/01/21,06/30/22,30000,CDBG
-City of Chula Vista,SBCS,South Bay Food Program,06/01/21,06/30/22,5098,CDBG
-City of National City,South Bay Community Services,Tenant Based Rental Assitance,12/5/17,12/04/18,188147.42,HOME
-City of National City,South Bay Community Services,Tenant Based Rental Assitance,3/1/20,03/29/21,364245.85,HOME
-City of Coronado,St. Vincent de Paul Village,Shelter Services,05/01/20,05/01/22,287000,Affordable Housing Fund Account 266490-8030
+City of Santee,Crisis House,Domestic Violence Services,11/19/21,06/30/22,66600,CDBG
+City of Santee,Crisis House,Prevention Services,7/1/18,06/30/19,5000,CDBG
+City of Santee,Crisis House,Prevention Services,7/1/17,06/30/20,5000,CDBG
+City of Santee,Crisis House,Prevention Programs,7/1/17,06/30/20,5200,CDBG
+California Department of General Services,City of La Mesa,Permanent Local Housing Allocation ,06/30/2030,06/30/2030,188809,PLHA
+City of Santee,East County Chamber of Commerce Foundation,CV - Rapid Rehousing Services,03/22/21,07/30/21,50000,CDBG-CV
+City of El Cajon,East County Transitional Living Center,Emergency Shelter,05/13/20,06/30/21,185294,CDBG-CV
+City of El Cajon,East County Transitional Living Center,Railing Replacement,07/01/18,06/30/21,25000,CDBG
+City of El Cajon,East County Transitional Living Center,Security Fencing,07/01/19,06/30/21,25000,CDBG
+City of Chula Vista,Family Health Centers of San Diego,2021-2022 Mobile Medical Unit,06/01/21,06/30/22,23000,CDBG
+City of Carlsbad,Urban Corps of San Diego,Abandon Items and Litter Removal Services,09/17/18,09/15/20,199000,City Budget
+City of La Mesa,Home Start Inc.,CV - Permanent Supportive Housing Services,10/1/21,09/30/22,338000,CDBG-CV
+City of El Cajon,Home Start,CV-Outreach Support Services,06/01/22,03/31/23,155000,CDBG-CV
+City of El Cajon,Home Start,Motel Voucher Program,05/13/20,06/30/21,45000,CDBG-CV
+City of La Mesa,Home Start,Rental Assistance ,12/04/20,12/04/22,75000,nan
+City of El Cajon,Home Start,Outreach Services,09/01/20,08/31/21,200000,LMIHAF
+City of Santee,Home Start Inc,CV - Rental Assistance,12/31/20,07/30/21,168976,CDBG-CV
+City of Encinitas,Interfaith Community Services,CV - Emergency Shelter ,07/01/21,06/30/22,30000,CDBG-CV
+City of Escondido ,Interfaith Community Services ,Quarantined Entry into Emergency Shelter,12/16/20,12/30/21,552803,ESG-CV
+City of El Cajon,Interfaith Shelter Network of San Diego,Rotational Emergency Shelter Program,07/01/20,06/30/21,30000,CDBG
+City of Escondido ,Interfaith Community Services ,Outreach Services,07/01/21,06/30/22,78335,ESG-CV
+City of Santee,Interfaith Shelter Network of San Diego,CV - Tenantship and Rooming House Subsidy Services,12/31/20,07/30/21,168976,CDBG-CV
+City of Carlsbad,Interfaith Community Services,Outreach and Case Management Services,07/01/20,06/30/21,31242,nan
+City of Carlsbad,Interfaith Community Services ,Case Management Services,07/01/19,06/30/20,244944,nan
+City of Carlsbad,Interfaith Community Services,CV - Assertive Community Treatment Services,07/07/20,06/30/21,598772,CDBG
+City of Chula Vista,Jacobs & Cushman San Diego Food Bank ,Food 4 Kids Backpack Program,06/01/21,06/30/22,50000,CDBG
+City of Chula Vista,Jacobs and Cushman San Diego Food Bank,CV - Food Services,11/16/21,11/16/22,5743525,ARPA
+City of Carlsbad,Legal Aid Society of San Diego,Basic Services ,07/01/18,06/30/19,20550,CDBG
+City of National City,McAlister Institute for Treatment & Education Inc.,Case Management Services,07/01/21,06/30/22,3132,nan
+City of Chula Vista,McAlister Institute for Treatment and Education Inc.,Work For Hope,06/01/21,06/30/22,203986,CDBG
+City of Carlsbad,Meals on Wheels,Outreach Services ,07/20/18,06/30/20,10 000,CDBG
+City of Vista,North County Lifeline,Rental Assitance,07/01/20,06/30/22,255000,CDBG-CV
+City of Vista,Operation Hope,CV - Emergency Shelter Services,07/01/19,06/30/20,2998,CDBG
+City of La Mesa,People Assisting the Homeless ,CV - Outreach Services ,11/21/20,10/31/21,262416,CDBG-CV
+City of Carlsbad,Rocket Johns Inc.,Porta Potty Rental and Services,06/01/17,06/01/21,200000,nan
+City of Del Mar,San Diego Regional Task Force on the Homeless,Services,07/01/21,06/30/23,4000,Community Support Program
+City of Santee,Santee Food Bank,Emergency Food Programs,06/01/18,06/30/20,14000,CDBG
+City of Chula Vista,SBCS,Family Violence Treatment Program,06/01/21,06/30/22,50000,CDBG
+City of Chula Vista,SBCS,CV - Domestic Violence Services,04/26/22,04/26/23,234475,ARPA
+City of National City,South Bay Community Services,Tenant Based Rental Assitance,12/5/17,12/12/18,188147.42,HOME
+City of National City,South Bay Community Services,Tenant Based Rental Assitance,07/01/20,06/30/22,364245.85,HOME
+City of Coronado,St. Vincent de Paul Village,Shelter Services,05/01/21,05/01/24,287401,Affordable Housing Fund account 266490-8030
+City of El Cajon,Salvation Army,A Way Back Home ,10/6/20,10/05/21,10700,City Budget
+City of Carlsbad,Urban Corps of San Diego County,Neighborhood Revitalization Services,06/19/20,06/19/22,35000,nan
+City of Carlsbad,Women 's Resource Center,Outreach Services,07/01/17,06/30/18,148996,CDBG
+City of Carlsbad,Women 's Resource Center,Grantee Services,07/01/18,06/30/20,1200,CDBG
